@@ -1,0 +1,8 @@
+# Core runtime for the AI-Assisted Investigation Simulator.
+# Install inside the project virtual environment:
+#   .venv\Scripts\python.exe -m pip install -r requirements.txt
+
+streamlit>=1.36.0
+python-dotenv>=1.0.0
+PyPDF2>=3.0.1
+google-genai>=1.0.0

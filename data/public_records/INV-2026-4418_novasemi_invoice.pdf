@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1492 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+56 740 Td
+(NOVASEMI COMPONENTS PVT LTD) Tj
+T* (GSTIN: 27AABCN8821Q1Z4 CIN: U32109MH2014PTC123881) Tj
+T* (Plot 14, MIDC Bhosari, Pune 411026) Tj
+T* () Tj
+T* (TAX INVOICE) Tj
+T* (Invoice No: INV-2026-4418) Tj
+T* (Invoice Date: 12 September 2026) Tj
+T* (Purchase Order: PO-APX-8821 dated 28 August 2026) Tj
+T* (Dispatch Date: 12 September 2026) Tj
+T* (AWB / LR: NS-77821) Tj
+T* () Tj
+T* (Bill To / Consignee:) Tj
+T* (Apex Electronics Pvt Ltd) Tj
+T* (Warehouse B, Hinjawadi Phase 2, Pune 411057) Tj
+T* (GSTIN: 27AADCA4410P1Z8) Tj
+T* (Buyer contact: Vikram Mehta, Procurement) Tj
+T* () Tj
+T* (Line items:) Tj
+T* (1. Part NEX-4407 N-Channel MOSFET, 60V, 40A) Tj
+T* (Quantity: 5000 pieces) Tj
+T* (Unit price: INR 360.00) Tj
+T* (Line total: INR 18,00,000.00) Tj
+T* () Tj
+T* (Taxable value: INR 18,00,000.00) Tj
+T* (IGST: NIL \(same-state supply already included in quoted rate\)) Tj
+T* (Grand total: INR 18,00,000.00) Tj
+T* (Amount in words: Indian Rupees Eighteen Lakh Only) Tj
+T* () Tj
+T* (Packing: 50 cartons x 100 pieces. Carton IDs NS-4407-01 to NS-4407-50.) Tj
+T* (Declaration: All carton seals were intact at the time of handover to) Tj
+T* (the transporter. Goods were counted as 5000 pieces by dispatcher) Tj
+T* (Anjali Rao \(Staff ID NS-119\).) Tj
+T* () Tj
+T* (Payment terms: Net 30 days from invoice date.) Tj
+T* (Bank: HDFC Bank, Bhosari | A/C 5020004418123 | IFSC HDFC0004418) Tj
+T* () Tj
+T* (Authorised signatory: K. Srinivas, Sales Manager, NovaSemi Components) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001785 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1855
+%%EOF

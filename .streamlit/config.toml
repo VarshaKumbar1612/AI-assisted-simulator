@@ -1,0 +1,20 @@
+# Streamlit workspace theme for the investigation simulator.
+# High-contrast dark surface with slate-blue panels and orange accents.
+
+[theme]
+base = "dark"
+primaryColor = "#FF7A18"
+backgroundColor = "#0A0E14"
+secondaryBackgroundColor = "#152033"
+textColor = "#E8EEF5"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = true
+
+[browser]
+gatherUsageStats = false
+
+[server]
+runOnSave = true

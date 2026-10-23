@@ -1,0 +1,20 @@
+RESTRICTED - INTERNAL SALES CHANNEL - NOVASEMI
+From: Rohan Kulkarni intern <rohan.k@novasemi.example>
+To: K. Srinivas <k.srinivas@novasemi.example>
+Date: 11 September 2026, 21:14 IST
+Subject: Re: Apex 5000 pcs - offload 5 cartons tonight
+
+Sir, confirming the split you asked for after Vikram Mehta called.
+
+Full Apex invoice INV-2026-4418 still shows 5000 pieces / INR 18,00,000.
+Transporter will load cartons NS-4407-01 to NS-4407-45 only for the
+Apex Warehouse B run on 12 September 2026 under LR NS-77821.
+
+Cartons NS-4407-46 to NS-4407-50 (500 pieces) will be handed to a cash
+buyer in Nashik at INR 280 per piece. No second invoice. Do not update
+the e-way quantity.
+
+Vikram said Apex audit is slow this quarter and he will keep the GRN
+in draft if the warehouse flags a shortage.
+
+I have not copied accounts.
